@@ -5,8 +5,7 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            this.labelTeam.Text = "Изменено в ветке USER 2";  
-            this.labelTeam.Text = "Изменено в ветке USER 1";
+            this.labelTeam.Text = "Изменено в ветке USER 2";
         }
     }
 }
