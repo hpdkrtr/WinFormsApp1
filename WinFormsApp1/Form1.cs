@@ -6,7 +6,7 @@ namespace WinFormsApp1
         {
             InitializeComponent();
             // Добавлено Starcy33
-            this.labelTeam.Text = "Изменено в ветке USER 2";
+            this.Text = "Это версия от ПЕРВОГО пользователя";
         }
     }
 }
