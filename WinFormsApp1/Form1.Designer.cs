@@ -34,7 +34,7 @@
             // labelTeam
             // 
             labelTeam.AutoSize = true;
-            labelTeam.Location = new Point(544, 196);
+            labelTeam.Location = new Point(462, 172);
             labelTeam.Name = "labelTeam";
             labelTeam.Size = new Size(162, 15);
             labelTeam.TabIndex = 0;
